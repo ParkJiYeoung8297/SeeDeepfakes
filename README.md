@@ -1,5 +1,8 @@
 # Seeing Through Deepfakes: An Explainable Multi-Task Detection Framework with Deep Learning and Large Language Models
 
+[![Paper](https://img.shields.io/badge/Paper-CMC%20(Online%20First)-blue)](https://www.techscience.com/cmc/online/detail/27664)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/ZVpRHxDxAwg)
+
 ![Python](https://img.shields.io/badge/Python-3.11.3-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.0.1-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=20232A)
@@ -78,6 +81,16 @@ Watch the demo video on [YouTube](https://youtu.be/ZVpRHxDxAwg).
     <img width="800" height="450" alt="Demo video thumbnail" src="https://github.com/user-attachments/assets/f4037891-c935-411f-a0e9-9f7865603690" />
   </a>
 </p>
+
+## Publication
+
+**Seeing Through Deepfakes: An Explainable Multi-Task Detection Framework with Deep Learning and Large Language Models**
+
+Accepted for publication in **Computers, Materials & Continua (CMC)**
+
+🔗 **Online First:** https://www.techscience.com/cmc/online/detail/27664
+
+DOI: https://doi.org/10.32604/cmc.2026.081091
 
 
 
